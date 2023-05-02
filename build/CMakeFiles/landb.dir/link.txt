@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/landb.dir/main.cc.o -o landb 
