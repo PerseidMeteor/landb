@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/landb.dir/main.cc.o -o landb 
+/usr/bin/c++ CMakeFiles/landb.dir/main.cc.o -o landb  /usr/local/lib/libreplxx.a 

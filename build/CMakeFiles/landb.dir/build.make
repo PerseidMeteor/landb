@@ -92,6 +92,7 @@ landb_EXTERNAL_OBJECTS =
 
 landb: CMakeFiles/landb.dir/main.cc.o
 landb: CMakeFiles/landb.dir/build.make
+landb: /usr/local/lib/libreplxx.a
 landb: CMakeFiles/landb.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/root/landb/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable landb"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/landb.dir/link.txt --verbose=$(VERBOSE)
